@@ -13,7 +13,7 @@ export interface Hospede {
 
 export interface HospedeCreatDto {
 
-nome: String; 
+nome: string; 
 cpf: string ; 
 email?: string; 
 telefone?: string; 
